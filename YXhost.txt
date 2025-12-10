@@ -1,27 +1,141 @@
-orange.seeck.cn#简睿 | 三网专线 | 01
-cloudflare.seeck.cn#简睿 | 三网专线 | 02
-elink.seeck.cn#简睿 | 三网专线 | 03
-nrtcfdns.zone.id#简睿 | 三网专线 | 04
-freeyx.cloudflare88.eu.org#简睿 | 三网专线 | 05
-777.ai7777777.xyz#简睿 | 三网专线 | 06
-cfsaas.080112.xyz#简睿 | 三网专线 | 07
-ali.nonull.pp.ua#简睿 | 三网专线 | 08
-cdn.204910.best#简睿 | 三网专线 | 09
-hj.xmm1993.top#简睿 | 三网专线 | 10
-cf.877774.xyz#秋名山 | 三网专线
-saas.sin.fan#MIYU | 三网专线
-cf.tencentapp.cn#ktff | 三网专线
-cf.130519.xyz#小小周 | 三网专线
-b3.cfyx.20237737.xyz#七十二时 | 三网专线
-cf.zhetengsha.eu.org#小一 | 三网专线
-one.cf.cdn.hyli.xyz#行雺 | 三网专线
-cf.090227.xyz#CMLiussss | 三网专线 | 01
-youxuan.cf.090227.xyz#CMLiussss | 三网专线 | 02
-sub.danfeng.eu.org#Dance | 三网专线
-cdns.doon.eu.org#Doon | 三网专线
-nrt.xxxxxxxx.nyc.mn#Nrt | 三网专线
-www.openai.com#OpenAI | 三网专线
-www.shopify.com#Shopify | 三网专线
-mfa.gov.ua#乌克兰 | 三网专线
-store.ubi.com#Ubisoft | 三网专线
-www.nexusmods.com#NexusMods | 三网专线
+cf.tencentapp.cn
+b3.cfyx.20237737.xyz
+cn.vuejs.org
+m.iyf.tv
+spring.io
+www.veryssl.com
+cfyx.dnspod.20237737.xyz
+sjccfdns.zone.id
+laxcfdns.zone.id
+nrtcfdns.zone.id
+fracfdns.zone.id
+mvnrepository.com
+cfyx.aliyun.20237737.xyz
+859ct.cc
+junit.org
+www.wto.org
+whatismyipaddress.com
+zero-trust-client.cloudflareclient.com
+www.pcmag.com
+git-scm.com
+bbs.alipansou.com
+www.fastsoso.cn
+278vd.cc
+cdn.262832.xyz
+iplocation.io
+www.iplocation.net
+www.ipchicken.com
+www.npmjs.com
+www.torproject.org.cn
+www.kali.org
+russia.com
+hicompress.com
+nexusmods.com
+japan.com
+appmaster.io
+servo.org
+dnschecker.org
+ip.sb
+singapore.com
+yongboss.cloudflare.byoip.top
+cdnjs.com
+cloudflare-dl.byoip.top
+cf.877774.xyz
+csgo.com
+saas.sin.fan
+bestcf.030101.xyz
+cf.cloudflare.182682.xyz
+cf.0sm.com
+cf.130519.xyz
+cf.877771.xyz
+cfip.1323123.xyz
+cfip.xxxxxxxx.tk
+cloudflare.182682.xyz
+cloudflare-dl.byoip.top
+cloudflare-ip.mofashi.ltd
+cloudflare-dl.cnae.top
+cloudflare.cfgo.cc
+cdns.doon.eu.org
+digitalocean.com
+cnamefuckxxs.yuchen.icu
+fn.130519.xyz
+freeyx.cloudflare88.eu.org
+nrt.xxxxxxxx.nyc.mn
+nrtcfdns.zone.id
+saas.sin.fan
+xn--b6gac.eu.org
+777.ai7777777.xyz
+bp5.shenyu.qzz.io
+bp4.shenyu.qzz.io
+bp3.shenyu.qzz.io
+bp2.shenyu.qzz.io
+bp1.shenyu.qzz.io
+staticdelivery.nexusmods.com
+store.ubi.com
+www.shopify.com
+mfa.gov.ua
+www.visa.cn
+time.is
+icook.hk
+icook.tw
+haokuai.cf.090227.xyz
+zidingyi.tencentapp.cn
+openai.com
+cfsaas.080112.xyz
+www.5199dy.com
+cf-cname.xingpingcn.top
+cdn.2020111.xyz
+bestcf.top
+www.speedtest.net
+nrtcfdns.zone.id
+csgo.com
+www.visa.com.hk
+www.visa.com.sg
+cloudflare.moeyy.xyz
+ip.skk.moe
+cmcc.877774.xyz
+www.ntu.edu.sg
+ping.pe
+www.whoer.net
+cfip.xxxxxxxx.tk
+cf2.996616.xyz
+cf3.996616.xyz
+cloudflare.net
+ali.nonull.pp.ua
+fbi.gov
+4-6-this-is-the-preferred-free-option.if-you-paid.youve-been-scammed.xn--4oqr7c4y9alz8a26c.xn--ykqqh3ob280k4sui1xhg6a0ti2u7a.cf.cnae.top
+www.hypixel.net
+flightradar24.com
+this-is-the-preferred-free-option.if-you-paid.youve-been-scammed.xn--4oqr7c4y9alz8a26c.xn--ykqqh3ob280k4sui1xhg6a0ti2u7a.cloudflare.byoip.top
+nodeloc.cc
+linux.do
+test.cloudflare.182682.xyz
+www.moc.gov.tw
+sci-hub.al
+www.who-hosts-this.com
+www.bis.gov
+www.commerce.gov
+www.epicgames.com
+ovpnspider.com
+whoer.com
+encryptedsni.com
+elementor.com
+whatcms.org
+wpbakery.com
+www.opencart.com
+www.hubspot.com
+www.sitecore.com
+unbounce.com
+prestashop.com
+www.zendesk.com
+craftcms.com
+dns.icoa.cn
+downloads.joomla.org
+www.joomla.org
+jquery.com
+centminmod.com
+umbraco.com
+unpkg.com
+www.jsdelivr.com
+redis.io
+www.postman.com
