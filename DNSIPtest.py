@@ -255,11 +255,11 @@ def delete_file_if_exists(file_path):
             logger.warning(f"⚠️ 删除文件失败: {str(e)}")
 
 def load_domain_list():
-    """从YXhost-lite.txt文件加载域名列表，支持注释行过滤"""
+    """从0318.txt文件加载域名列表，支持注释行过滤"""
     domains = []
-    if os.path.exists('YXhost-lite.txt'):
+    if os.path.exists('0318.txt'):
         try:
-            with open('YXhost-lite.txt', 'r', encoding='utf-8') as f:
+            with open('0318.txt', 'r', encoding='utf-8') as f:
                 for line in f:
                     line = line.strip()
                     if line and not line.startswith('#'):
@@ -271,7 +271,7 @@ def load_domain_list():
         except Exception as e:
             logger.error(f"❌ 加载域名文件失败: {str(e)}")
     else:
-        logger.warning("⚠️ YXhost-lite.txt 文件不存在")
+        logger.warning("⚠️ 0318.txt 文件不存在")
     return domains
 
 # ===== 3. DNS解析模块 =====
